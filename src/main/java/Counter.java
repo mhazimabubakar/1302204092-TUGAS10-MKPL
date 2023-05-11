@@ -2,7 +2,7 @@ package src.main.java;
 
 public class Counter {
 
-	private int count;
+	private int count1;
 	
 	public Counter() {
 		this.reset();
