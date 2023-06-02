@@ -6,8 +6,8 @@
 
 <dependencies>
   <dependency>
-    <groupId>junit</groupId>
-    <artifactId>junit</artifactId>
+    <groupId>junit1</groupId>
+    <artifactId>junit1</artifactId>
     <version>4.11</version> <!-- Or whatever JUnit you're using. -->
 	</dependency>
 </dependencies>
@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/jatihusen/Basic-Java-Maven</url>
+      <url>https://maven.pkg.github.com/mhazimabubakar/1302204092-TUGAS10-MKPL</url>
     </repository>
   </distributionManagement>
   
